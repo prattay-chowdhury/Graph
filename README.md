@@ -1,4 +1,4 @@
-# Graph
+# Topological ordergin of Graph
 
 What does the program do?
 1. The program will build two given graphs.
